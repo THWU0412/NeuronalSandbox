@@ -1,2 +1,2 @@
-# Neuronal Sandbox
-This repository will include different projects regarding neuronal networks.
+# Neural Sandbox
+This repository will include different projects regarding neural networks.
